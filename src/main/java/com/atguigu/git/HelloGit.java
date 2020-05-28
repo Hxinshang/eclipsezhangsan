@@ -10,5 +10,11 @@ public class HelloGit {
 		System.out.println("Hello 不知道该了东西!");
 		System.out.println("Hello 冲突东西!");
 		System.out.println("Hello 第二次提交之前更新东西!");
+		System.out.println("Hello 鍒涘缓鍒嗘敮!");
+		System.out.println("Hello 涓荤嚎娣诲姞!");
+		System.out.println("Hello dev鍒嗘敮!");
+		System.out.println("Hello 鏀逛簡涓滆タ!");
+		System.out.println("Hello 鍦ㄧ嚎娣诲姞!");
+		System.out.println("Hello 鍦ㄧ嚎涓滆タ!");
 	}
 }
